@@ -126,4 +126,4 @@ python -m streamlit run app.py
 
 # Author
 
-Poojitha S
+Sai Siddaraju Poojitha
